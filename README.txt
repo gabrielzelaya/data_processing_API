@@ -1,0 +1,1 @@
+API para procesamiento de datos usando Flask. Esta API permitirá cargar datos, realizar algunas operaciones básicas y devolver los resultados. A modo de ejemplo, usaré operaciones simples como calcular la media y la suma de una lista de números
